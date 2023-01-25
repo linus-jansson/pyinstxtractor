@@ -1,0 +1,16 @@
+{
+  "title": "Nighty",
+  "title_color": null,
+  "title_font": null,
+  "description": true,
+  "description_color": null,
+  "description_font": null,
+  "text_color": null,
+  "text_font": null,
+  "imageurl": "https://i.imgur.com/Y8YN4s7.png",
+  "embed_color": "#40A0C6",
+  "embed_url": "https://nighty.one",
+  "custom": {
+    "ui": null
+  }
+}
